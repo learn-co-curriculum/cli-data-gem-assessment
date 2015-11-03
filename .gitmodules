@@ -1,0 +1,3 @@
+[submodule "examples/now-playing-cli-gem"]
+	path = examples/now-playing-cli-gem
+	url = git@github.com:learn-co-curriculum/now-playing-cli-gem.git
