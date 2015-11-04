@@ -18,6 +18,8 @@ In this lesson you're going to build a RubyGem that provides a CLI interface to 
 - Programming meetups near you, list details.
 - News Reader - List articles, read article.
 
+**Take a look in the `examples` directory for an example of what your gem should look like.**
+
 
 ## Instructions
 
@@ -25,7 +27,7 @@ In this lesson you're going to build a RubyGem that provides a CLI interface to 
 ie: `name-cli-gem`
 2. Submit that repo to the assessment immediately.
 3. Build your gem there.
-4. Record at least a 30 min coding session, narrate or not. keep it, if we ask for it youll have to provide it.
+4. Record at least a 30 min coding session, narrate or not. keep it, if we ask for it you'll have to provide it.
 5. Submit a video of your working gem.
 6. Submit the final code.
 7. Write a blog post about the project and process.
