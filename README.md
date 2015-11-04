@@ -23,43 +23,43 @@ In this lesson you're going to build a RubyGem that provides a CLI interface to 
 
 1. Create a new repository on github for your gem
 ie: `name-cli-gem`
-2. Submit that repo to the assessment immediately
-3. Build your gem there
+2. Submit that repo to the assessment immediately.
+3. Build your gem there.
 4. Record at least a 30 min coding session, narrate or not. keep it, if we ask for it youll have to provide it.
 5. Submit a video of your working gem.
-6. Submit the final code
-7. Write a blog post about the project and process
+6. Submit the final code.
+7. Write a blog post about the project and process.
 7. Schedule your pairing session.
 
 ###Be prepared to:
 1. Explain your code from execution point to exit point. We're making sure you wrote it and understand how it works, nothing else. 5-10 minutes
-2. Write tests together. you'll be responsible for making tests pass, not writing test code. however, you'll be expected to provide expected return data of methods. you'll need to know how your code should work, not rspec or testing. 20-30 minutes
+2. Write tests together. You'll be responsible for making tests pass, not writing test code. However, you'll be expected to provide expected return data of methods. You'll need to know how your code should work, not rspec or testing. 20-30 minutes
 3. Refactor code. 20-30 minutes
-4. Extend the application. a new feature. more data. a different domain. 20-30 minutes
-5. Submit an improved version
-6. Write a README.md
+4. Extend the application with a new feature, more data, a different domain etc. 20-30 minutes
+5. Submit an improved version.
+6. Write a README.md.
 
 ###What to expect:
 
-- articulate code
-- use the best vocabulary you can
-- listen to corrections
-- trust yourself
-- trust us
-- think on your feet
-- look things up
-- implement new concepts on the fly
-- explain the details
-- learn a ton
-- be pushed to the edge of your knowledge
-- be support
-- whatever you don't quite understand will be explained
+- Articulate code
+- Use the best vocabulary you can
+- Listen to corrections
+- Trust yourself
+- Trust us
+- Think on your feet
+- Look things up
+- Implement new concepts on the fly
+- Explain the details
+- Learn a ton
+- Be pushed to the edge of your knowledge
+- Be supportive
+- Whatever you don't quite understand will be explained
 
 ###What won't happen:
-- you won't be told you're ever wrong
-- you won't be yelled at, belittled, or scolded
-- you won't be put on the spot without support
-- there's nothing you can do to instantly fail or blow it.
+- You won't be told you're ever wrong
+- You won't be yelled at, belittled, or scolded
+- You won't be put on the spot without support
+- There's nothing you can do to instantly fail or blow it.
 
 
 ####Resources
