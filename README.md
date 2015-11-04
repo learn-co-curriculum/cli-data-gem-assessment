@@ -2,7 +2,11 @@
 
 ## Overview
 
-In this lesson you're going to build a RubyGem that provides a CLI interface to an external data source. Your code will be packaged as a RubyGem and install a CLI for the user. The CLI will be composed of an Objected Oriented Ruby application
+In this lesson you're going to build a RubyGem that provides a CLI interface to an external data source. Your code will be packaged as a RubyGem and install a CLI for the user. The CLI will be composed of an Objected Oriented Ruby application.
+
+####Note:
+This project contains a submodule with an example gem. When you clone this lab pass in the `--recursive` flag to clone down the repo and the submodule inside it.
+`git clone --recursive git@github.com:learn-co-curriculum/cli-data-gem-project.git`
 
 ## Requirements
 
