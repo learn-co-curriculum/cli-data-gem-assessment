@@ -2,97 +2,69 @@
 
 ## Overview
 
-In this lesson you're going to build a RubyGem that provides a CLI interface to an external data source. Your code will be packaged as a RubyGem and install a CLI for the user. The CLI will be composed of an Objected Oriented Ruby application
+In this lesson you're going to build a RubyGem that provides a CLI interface to an external data source. Your code will be packaged as a RubyGem and install a CLI for the user. The CLI will be composed of an Objected Oriented Ruby application.
+
+####Note:
+This project contains a submodule with an example gem. When you clone this lab pass in the `--recursive` flag to clone down the repo and the submodule inside it.
+`git clone --recursive <Clone URL>`
 
 ## Requirements
 
-1. Package as a gem
-2. Provide a CLI on gem installation.
-3. CLI must provide data from an external source, whether scraped or via a public API.
-4. Data provided must go at least a level deep, generally by showing the user a list of available data and then being able to drill into a specific item.
-
-https://github.com/richardsonjm/mta_status
+  1. Package as a gem
+  2. Provide a CLI on gem installation.
+  3. CLI must provide data from an external source, whether scraped or via a public API.
+  4. Data provided must go at least a level deep, generally by showing the user a list of available data and then being able to drill into a specific item.
 
 
-how to build a gem resources
-publish to rubygems.
+###Example domains
+  - Movies Opening Soon - Enter your zip code and receive a list of movies and their details.
+  - Libraries Near You -  Enter your zip code and receive a list of libraries and their details.
+  - Programming meetups near you, list details.
+  - News Reader - List articles, read article.
 
-
-example domains
-1. movies opening soon
-  list opening movies
-  get detailed info about opening movie
-
-2. libraries near you
-  enter zipcode
-  list libraries
-  library details
-
-3. advaned student CLI
-  - list twitter accounts
-  - global twitter feed
-  - global blog feed
-  - interactive twitter
-
-4. programming meetups near you
-    list meetups
-    details
-
-5. news reader
-  list articles
-  read article
-
+**Take a look in the `examples` directory for an example of what your gem should look like.**
 
 
 ## Instructions
 
-Create a new repository on github for your gem
+  1. Create a new repository on github for your gem
+  ie: `name-cli-gem`
+  2. Submit that repo to the assessment immediately.
+  3. Build your gem there. Make sure to commit early and commit often.
+  4. Record at least a 30 min coding session. During the session, either think out loud or not. It's up to you. You don't need to submit it, but we may ask for it at a later time.
+  5. Submit a video of how a user would interact with your working gem.
+  6. Submit the url to your github project
+  7. Write a blog post about the project and process.
+  8. We should reach out to you soon to schedule a pairing process. If you don't hear from us in 48 hours after submission, reach out to us on Slack!
 
-name-cli-gem
-mta-status-cli-gem
-buzzfeed-cli-gem
-new-hackernews-cli-gem
+### Be Prepared to:
 
-submit that repo to the assessment immediately
+  1. Explain your code from execution point to exit point. We're making sure you wrote it and understand how it works, nothing else. 5-10 minutes
+  2. Write tests together. You'll be responsible for making tests pass, not writing test code. However, you'll be expected to provide expected return data of methods. You'll need to know how your code should work, not rspec or testing. 20-30 minutes
+  3. Refactor code. 20-30 minutes
+  4. Extend the application with a new feature, more data, a different domain etc. 20-30 minutes
+  5. Submit an improved version.
+  6. Write a README.md.
 
-build your gem there
-record at least a 30 min coding session, narrate or not. keep it, if we ask for it youll have to provide it.
+### What to expect from the pairing session
 
-submit a video of your working gem.
-submit the final code
-write a blog post about the project and process
+  - Use the best vocabulary you can. Technical terms allow for you to be more precise which makes conversations about code much easier.
+  - If you make a mistake, correct yourself! We all make mistakes, I promise.
+  - Trust yourself
+  - Trust us
+  - Think on your feet. Feel free to look things up while you're pairing with us. You'll be asked to expand on concepts you implemented and you will be pushed to the edge of your knowledge.
+  - Explain the details. We're curious!
+  - You're going to learn a ton. We will give pointers and show you ways to improve your code. This isn't telling you that your code is wrong, it's simply us teaching. Whatever you don't quite understand will be explained
 
-schedule your pairing session.
-  be prepared to:
-    1. Explain your code from execution point to exit point. We're making sure you wrote it and understand how it works, nothing else. 5-10 minutes
+### What won't happen:
 
-    2. write tests together. you'll be responsible for making tests pass, not writing test code. however, you'll be expected to provide expected return data of methods. you'll need to know how your code should work, not rspec or testing. 20-30 minutes
+  - You won't be told you're ever wrong
+  - You won't be yelled at, belittled, or scolded
+  - You won't be put on the spot without support
+  - There's nothing you can do to instantly fail or blow it.
 
-    3. refactor code. 20-30 minutes
 
-    4. extend the application. a new feature. more data. a different domain. 20-30 minutes
+####Resources
 
-    5. submit an improved version
-
-    6. write a README.md
-
-  what to expect:
-    articulate code
-    use the best vocabulary you can
-    listen to corrections
-    trust yourself
-    trust us
-    think on your feet
-    look things up
-    implement new concepts on the fly
-    explain the details
-    learn a ton
-    be pushed to the edge of your knowledge
-    be support
-    whatever you don't quite understand will be explained
-
-  what won't happen:
-    you won't be told you're ever wrong
-    you won't be yelled at, belittled, or scolded
-    you won't be put on the spot without support
-    there's nothing you can do to instantly fail or blow it.
+  - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
+  - [How to publish your gem](http://guides.rubygems.org/publishing/)
