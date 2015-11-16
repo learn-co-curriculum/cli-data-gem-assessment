@@ -5,3 +5,4 @@ tags:
 languages:
   - ruby
 resources:
+live_assessment: true
