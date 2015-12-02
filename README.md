@@ -62,3 +62,5 @@ In this lesson you're going to build a RubyGem that provides a CLI interface to 
 
 - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
 - [How to publish your gem](http://guides.rubygems.org/publishing/)
+
+<a href='https://learn.co/lessons/cli-data-gem-project' data-visibility='hidden'>View this lesson on Learn.co</a>
