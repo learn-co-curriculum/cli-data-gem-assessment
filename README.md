@@ -20,6 +20,9 @@ In this lesson you're going to build a RubyGem that provides a CLI interface to 
 - News Reader - List articles, read article.
 
 [now-playing](https://github.com/learn-co-curriculum/now-playing-cli-gem) is an example of a gem that would meet these requirements.
+[worlds best restaurants](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem) was built by a Learn student and meets these requirements and is well coded.
+
+There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) if you're having a hard time getting started.
 
 ## Instructions
 
@@ -62,3 +65,5 @@ In this lesson you're going to build a RubyGem that provides a CLI interface to 
 
 - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
 - [How to publish your gem](http://guides.rubygems.org/publishing/)
+
+<a href='https://learn.co/lessons/cli-data-gem-project' data-visibility='hidden'>View this lesson on Learn.co</a>
