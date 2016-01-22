@@ -27,13 +27,12 @@ There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 ## Instructions
 
 1. Create a new repository on GitHub for your gem, ie: `name-cli-gem`.
-2. On Learn, use the textbox in the right rail to submit the URL of your repo.
-3. Build your gem. Make sure to commit early and commit often.
-4. While you're working on it, record a 30 min coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
-5. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
-6. Write a blog post about the project and process.
-7. When done, e-mail both your video demo and link to your blog post to assessments@learn.co and hit "I'm done" in the right rail to wrap it up. 
-8. We'll reach out to you soon to schedule a pairing process. If you don't hear from us in 48 hours after submission, get in touch!
+2. Build your gem. Make sure to commit early and commit often.
+3. While you're working on it, record a 30 min coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
+4. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
+5. Write a blog post about the project and process.
+6. On Learn, submit links to the Github repository for your gem, your video demo, and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up. 
+7. Watch for an email from Learn with instructions to schedule a pairing process. If you don't receive the email within a day after submission, get in touch!
 
 ### Be Prepared to:
 
