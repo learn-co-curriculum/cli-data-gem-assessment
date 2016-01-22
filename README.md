@@ -32,7 +32,7 @@ There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 4. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
 5. Write a blog post about the project and process.
 6. On Learn, submit links to the Github repository for your gem, your video demo, and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up. 
-7. Watch for an email from Learn with instructions to schedule a pairing process. If you don't receive the email within a day after submission, get in touch!
+7. Watch for an email from Learn with instructions to schedule a pairing process. If you don't receive the email within a day or so after submission, get in touch!
 
 ### Be Prepared to:
 
