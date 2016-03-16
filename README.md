@@ -59,14 +59,13 @@ Watch for an email from Learn with instructions to schedule a pairing process. I
 
 ### What won't happen:
 
-- You won't be told you're ever wrong
-- You won't be yelled at, belittled, or scolded
-- You won't be put on the spot without support
+- You won't be told you're ever wrong.
+- You won't be yelled at, belittled, or scolded.
+- You won't be put on the spot without support.
 - There's nothing you can do to instantly fail or blow it.
 
 ## Resources
 
 - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
 - [How to publish your gem](http://guides.rubygems.org/publishing/)
-
-<a href='https://learn.co/lessons/cli-data-gem-project' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
