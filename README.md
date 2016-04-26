@@ -43,7 +43,7 @@ Watch for an email from Learn with instructions to schedule a pairing process. I
 ### Be Prepared to:
 
 1. Explain your code from execution point to exit point. We're making sure you wrote it and understand how it works, nothing else. 10-20 minutes
-2. Refactor code. 20-30 minutes
+2. Refactor code. 10-20 minutes
 3. Extend the application with a new feature, more data, a different domain etc. 20-30 minutes
 4. Submit an improved version.
 
