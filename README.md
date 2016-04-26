@@ -28,7 +28,7 @@ There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 ## Instructions
 
 1. Create a new repository on GitHub for your gem, ie: `name-cli-gem`.
-2. Build your gem. Make sure to commit early and commit often.
+2. Build your gem. Make sure to commit early and commit often. We will look at the commit history as part of the assessment, so make sure you have lots of small commits with well thought out commit messages that "tell the story" of how you built the app.
 3. While you're working on it, record a 30 min coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
 4. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
 5. Write a blog post about the project and process.
