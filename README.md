@@ -21,6 +21,7 @@ In this lesson you're going to build a RubyGem that provides a CLI interface to 
 
 [now-playing](https://github.com/learn-co-curriculum/now-playing-cli-gem) is an example of a gem that would meet these requirements.
 [worlds best restaurants](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem) was built by a Learn student and meets these requirements and is well coded.
+Take the time to clone, run and look through the code for both of these in detail - it'll really help.
 
 There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) if you're having a hard time getting started.
 
