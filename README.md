@@ -38,19 +38,19 @@ There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 
 ## If you're a Learn-Verified Premium student: 
 
-Watch for an email from Learn with instructions to schedule a pairing session. If you don't receive the email within a day or so after submission, get in touch!
+Watch for an email from Learn with instructions to schedule an assessment. If you don't receive the email within a day or so after submission, get in touch!
 
 ### Be Prepared to:
 
 1. Explain your code from execution point to exit point. We're making sure you wrote it and understand how it works, nothing else. 10-20 minutes
 2. Refactor code. 10-20 minutes
 
-If necessary, after the pairing session, be prepared to:
+If necessary, after the assessment, be prepared to:
 
 1. Extend the application with a new feature, more data, a different domain etc. 20-30 minutes
 2. Submit an improved version.
 
-### What to expect from the pairing session
+### What to expect from the assessment
 
 - Use the best vocabulary you can. Technical terms allow for you to be more precise which makes conversations about code much easier.
 - If you make a mistake, correct yourself! We all make mistakes, I promise.
