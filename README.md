@@ -29,10 +29,11 @@ There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 
 1. Create a new repository on GitHub for your gem, ie: `name-cli-gem`.
 2. Build your gem. Make sure to commit early and commit often. We will look at the commit history as part of the assessment, so make sure you have lots of small commits with well thought out commit messages that "tell the story" of how you built the app.
-3. While you're working on it, record a 30 min coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
-4. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
-5. Write a blog post about the project and process.
-6. On Learn, submit links to the Github repository for your gem, your video demo, and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up. 
+3. Write a good README.md that explains what the gem does and how to install and use it.
+4. While you're working on it, record a 30 min coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
+5. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
+6. Write a blog post about the project and process.
+7. On Learn, submit links to the Github repository for your gem, your video demo, and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up. 
 
 
 ## If you're a Learn-Verified Premium student: 
@@ -46,7 +47,6 @@ Watch for an email from Learn with instructions to schedule a pairing process. I
 3. Refactor code. 20-30 minutes
 4. Extend the application with a new feature, more data, a different domain etc. 20-30 minutes
 5. Submit an improved version.
-6. Write a README.md.
 
 ### What to expect from the pairing session
 
