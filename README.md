@@ -2,11 +2,11 @@
 
 ## Overview
 
-In this lesson you're going to build a RubyGem that provides a CLI interface to an external data source. Your code will be packaged as a RubyGem and install a CLI for the user. The CLI will be composed of an Objected Oriented Ruby application.
+In this lesson you're going to build a RubyGem that provides a command line interface to an external data source. Your code will be packaged as a RubyGem and install a CLI for the user. The CLI will be composed of an Object Oriented Ruby application.
 
 ## Requirements
 
-1. Package as a gem
+1. Package as a gem.
 2. Provide a CLI on gem installation.
 3. CLI must provide data from an external source, whether scraped or via a public API.
 4. Data provided must go at least a level deep, generally by showing the user a list of available data and then being able to drill into a specific item.
@@ -54,11 +54,11 @@ If necessary, after the assessment, be prepared to:
 
 - Use the best vocabulary you can. Technical terms allow for you to be more precise which makes conversations about code much easier.
 - If you make a mistake, correct yourself! We all make mistakes, I promise.
-- Trust yourself
-- Trust us
+- Trust yourself.
+- Trust us.
 - Think on your feet. Feel free to look things up while you're pairing with us. You'll be asked to expand on concepts you implemented and you will be pushed to the edge of your knowledge.
 - Explain the details. We're curious!
-- You're going to learn a ton. We will give pointers and show you ways to improve your code. This isn't telling you that your code is wrong, it's simply us teaching. Whatever you don't quite understand will be explained
+- You're going to learn a ton. We will give pointers and show you ways to improve your code. This isn't telling you that your code is wrong, it's simply us teaching. Whatever you don't quite understand will be explained.
 
 ### What won't happen:
 
@@ -74,3 +74,5 @@ If necessary, after the assessment, be prepared to:
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
