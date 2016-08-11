@@ -10,7 +10,7 @@ In this lesson you're going to build a RubyGem that provides a command line inte
 2. Provide a CLI on gem installation.
 3. CLI must provide data from an external source, whether scraped or via a public API.
 4. Data provided must go at least a level deep, generally by showing the user a list of available data and then being able to drill into a specific item.
-
+5. The CLI gem can not be a Music CLI gem as that is too similiar to the other OO Ruby final project. Also please refrain from using Kickstarter as that was used for the scraping code along. Look at the example domains below for inspiration
 
 ### Example Domains
 
