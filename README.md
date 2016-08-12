@@ -75,6 +75,11 @@ If necessary, after the assessment, be prepared to:
 - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
 - [How to publish your gem](http://guides.rubygems.org/publishing/)
 - [Environments, Requiring Files, Bundler, and Gems](https://www.youtube.com/watch?v=XBgZLm-sdl8) 
+- [Video- CLI Data Gem Walkthrough](https://github.com/learn-co-curriculum/oo-cli-data-gem-walkthrough)
+- [Video- CLI Data Gem Walkthrough: Creating a CLI Scraper Gem](https://github.com/learn-co-curriculum/oo-ruby-cli-data-gem-walkthrough-creating-a-cli-scraper-gem)
+- [Video- Common Anti-Patterns in CLI Data Gem](https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem)
+- [Video- Student Example 1: Refactoring CLI Data Gem](https://github.com/learn-co-curriculum/refactoring-cli-gem)
+- [Video- Student Example 2: Refactoring CLI Data Gem](https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem-2)
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
