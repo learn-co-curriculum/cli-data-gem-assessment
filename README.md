@@ -2,22 +2,23 @@
 
 ## Overview
 
-In this lesson you're going to build a RubyGem that provides a command line interface to an external data source. Your code will be packaged as a RubyGem and install a CLI for the user. The CLI will be composed of an Object Oriented Ruby application.
+In this lesson you're going to build an application that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application.
 
 ## Requirements
 
-1. Package as a gem.
-2. Provide a CLI on gem installation.
-3. CLI must provide data from an external source, whether scraped or via a public API.
-4. Data provided must go at least a level deep, generally by showing the user a list of available data and then being able to drill into a specific item.
-5. The CLI gem can not be a Music CLI gem as that is too similiar to the other OO Ruby final project. Also please refrain from using Kickstarter as that was used for the scraping code along. Look at the example domains below for inspiration
+1. Provide a CLI
+2. CLI must provide access to data from an external source, whether scraped from a web page or via a public API.
+3. The data provided must go at least one level deep, generally by showing the user a list of available data and then being able to drill down into a specific item.
+4. The CLI application can not be a Music CLI application as that is too similiar to the other OO Ruby final project. Also please refrain from using Kickstarter as that was used for the scraping 'code along'. Look at the example domains below for inspiration
+
+*For bonus points, instead of just creating an application, create a gem and for extra bonus points try publishing it to RubyGems.*
 
 ### Example Domains
 
-- Movies Opening Soon - Enter your zip code and receive a list of movies and their details.
-- Libraries Near You -  Enter your zip code and receive a list of libraries and their details.
+- Movies opening soon - Enter your zip code and receive a list of movies and their details.
+- Libraries near you -  Enter your zip code and receive a list of libraries and their details.
 - Programming meetups near you, list details.
-- News Reader - List articles, read article.
+- News reader - List articles, read article.
 
 [now-playing](https://github.com/learn-co-curriculum/now-playing-cli-gem) is an example of a gem that would meet these requirements.
 [worlds best restaurants](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem) was built by a Learn student and meets these requirements and is well coded.
@@ -27,19 +28,20 @@ There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 
 ## Instructions
 
-1. Create a new repository on GitHub for your gem, ie: `name-cli-gem`.
+1. Create a new repository on GitHub for your application, ie: `name-cli-app`.
 2. When you create the CLI app for your assessment, add the spec.md file from this repo to the root directory of the project, commit it to Git and push it up to GitHub.
-3. Build your gem. Make sure to commit early and commit often. Commit messages should be meaningful (clearly describe what you're doing in the commit) and accurate (there should be nothing in the commit that doesn't match the description in the commit message). Good rule of thumb is to commit every 3-7 mins of actual coding time. Most of your commits should have under 15 lines of code and a 2 line commit is perfectly acceptable. **This is important and you'll be graded on this**.
+3. Build your application. Make sure to commit early and commit often. Commit messages should be meaningful (clearly describe what you're doing in the commit) and accurate (there should be nothing in the commit that doesn't match the description in the commit message). Good rule of thumb is to commit every 3-7 mins of actual coding time. Most of your commits should have under 15 lines of code and a 2 line commit is perfectly acceptable. **This is important and you'll be graded on this**.
 4. Make sure to create a good README.md with a short description, install instructions, a contributors guide and a link to the license for your code.
 5. While you're working on it, record a 30 min coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
 6. Make sure to check each box in your spec.md (replace the space between the square braces with an x) and explain next to each one how you've met the requirement *before* you submit your project.
 7. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
 8. Write a blog post about the project and process.
-9. On Learn, submit links to the GitHub repository for your gem, your video demo, and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up. 
+9. On Learn, submit links to the GitHub repository for your app, your video demo, and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up. 
 
-Unlike the rest of the curriculum, if you have any questions about your assessment or need help with it, please *don’t* use the Ask New Question feature. Rather than working with Learn Experts, please reach out to the Learn Instructor responsible for this section instead - Corinna / corinna@flatironschool.com / learn-co slack: corinna.
 
 ## If you're a Learn-Verified Premium student: 
+
+Unlike the rest of the curriculum, if you have any questions about your assessment or need help with it, please *don’t* use the Ask New Question feature. Rather than working with Learn Experts, please reach out to the Learn Instructor responsible for this section instead - Corinna / corinna@flatironschool.com / learn-co slack: corinna.
 
 Watch for an email from Learn with instructions to schedule an assessment. If you don't receive the email within a day or so after submission, get in touch!
 
@@ -81,5 +83,3 @@ If necessary, after the assessment, be prepared to:
 - [Video- Student Example 1: Refactoring CLI Data Gem](https://www.youtube.com/watch?v=JEL_PXr74qQ)
 - [Video- Student Example 2: Refactoring CLI Data Gem](https://www.youtube.com/watch?v=Lt0oyHiKWIw)
 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
