@@ -1,15 +1,19 @@
-# Build a CLI RubyGem with External Data
+# Build a CLI Application with External Data
 
 ## Overview
 
-In this lesson you're going to build an application that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application.
+In this lesson you're going to build an application that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. 
+
+**Please note that while you will be writing code to scrape data from a public website, what we're really looking for is your capacity to effectively write good object oriented ruby code (objects, not hashes, separation of concerns, etc.) - we're less interested in the details of the regex's or selector you're using to parse the web pages that you're scraping.**
 
 ## Requirements
 
 1. Provide a CLI
 2. CLI must provide access to data from an external source, whether scraped from a web page or via a public API.
 3. The data provided must go at least one level deep, generally by showing the user a list of available data and then being able to drill down into a specific item.
-4. The CLI application can not be a Music CLI application as that is too similiar to the other OO Ruby final project. Also please refrain from using Kickstarter as that was used for the scraping 'code along'. Look at the example domains below for inspiration
+4. The CLI application can not be a Music CLI application as that is too similiar to the other OO Ruby final project. Also please refrain from using Kickstarter as that was used for the scraping 'code along'. Look at the example domains below for inspiration.
+5. Use good OO design patterns. You should be creating a collection of objects - not hashes.
+
 
 *For bonus points, instead of just creating an application, create a gem and for extra bonus points try publishing it to RubyGems.*
 
