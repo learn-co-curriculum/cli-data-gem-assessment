@@ -9,7 +9,7 @@ In this lesson you're going to build an application that provides a Command Line
 ## Requirements
 
 1. Provide a CLI
-2. CLI must provide access to data from an external source, whether scraped from a web page or via a public API.
+2. CLI must provide access to data from a web page.
 3. The data provided must go at least one level deep, generally by showing the user a list of available data and then being able to drill down into a specific item.
 4. The CLI application can not be a Music CLI application as that is too similiar to the other OO Ruby final project. Also please refrain from using Kickstarter as that was used for the scraping 'code along'. Look at the example domains below for inspiration.
 5. Use good OO design patterns. You should be creating a collection of objects - not hashes.
