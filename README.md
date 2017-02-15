@@ -45,7 +45,7 @@ There is also a [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 
 ## If you're a Learn-Verified Premium student: 
 
-Unlike the rest of the curriculum, if you have any questions about your assessment or need help with it, please *don’t* use the Ask New Question feature. Rather than working with Learn Experts, please reach out to the Learn Instructor responsible for this section instead - Corinna / corinna.brock@flatironschool.com / learn-co slack: corinna.
+Unlike the rest of the curriculum, if you have any questions about your assessment or need help with it, please don’t use the Ask New Question feature. Rather than working with Learn Experts, please reach out to your Learn Instructor responsible for this section instead.
 
 Watch for an email from Learn with instructions to schedule an assessment. If you don't receive the email within a day or so after submission, get in touch!
 
