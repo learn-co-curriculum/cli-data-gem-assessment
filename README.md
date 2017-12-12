@@ -61,22 +61,27 @@ If necessary, after the assessment, be prepared to:
 ### What to expect from the assessment
 
 Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation. 
+
 #### Be scrappy.
 - If you make a mistake, correct yourself! We all make mistakes, I promise.
 - Think on your feet. Feel free to look things up while you're pairing with us. You'll be asked to expand on concepts you implemented and you will be pushed to the edge of your knowledge.
 - Explain the details. We're curious!
 - Don’t worry if your code isn’t perfect the first time - focus on getting something working, then refactoring to improve it
+
 #### Make no little plans.
 - You're going to learn a ton. We will give pointers and show you ways to improve your code. This isn't telling you that your code is wrong, it's simply us teaching. Whatever you don't quite understand will be explained.
 - Be proud of your project and your code, and show confidence in it. 
+
 #### Radiate positivity.
 - Present yourself and your project in the best way possible. 
 - Be open to feedback, both positive and constructive. 
 - Remember, the interviewer is a person too. Be nice to them!
+
 #### Work Together.
 - Trust yourself.
 - Trust us - our goal is to help you be successful in achieving your goals.
 - We understand that this process can be stressful. We’re here to help you through. 
+
 #### Pursue mastery.
 - Use the best technical vocabulary you can. We’ll help you with the words you can’t remember, or if you’re unsure about how something is pronounced. 
 - Ask questions! Curiosity and willingness to learn are hugely valued in our industry. If you haven’t heard of something, that’s okay - use this opportunity to learn about it!
