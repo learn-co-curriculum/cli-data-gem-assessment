@@ -37,9 +37,10 @@ Take the time to clone, run and look through the code for both of these in detai
 5. Make sure to create a good README.md with a short description, install instructions, a contributors guide and a link to the license for your code.
 6. While you're working on it, record a 30 min coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
 7. Make sure to check each box in your spec.md (replace the space between the square braces with an x) and explain next to each one how you've met the requirement *before* you submit your project.
-8. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
-9. Write a blog post about the project and process.
-10. On Learn, submit links to the GitHub repository for your app, your video demo, and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
+8. [Fill out this checklist.](https://docs.google.com/forms/d/1ItDHkNbtHJP8T2G28Nqc3Ad8MppbPDpqv9AijAOCFDA/)
+9. Prepare a video demo (narration helps!) describing how a user would interact with your working gem.
+10. Write a blog post about the project and process.
+11. On Learn, submit links to the GitHub repository for your app, your video demo, and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
 
 
 ## If you're a Learn-Verified Premium student: 
