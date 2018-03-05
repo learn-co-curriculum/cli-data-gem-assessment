@@ -25,7 +25,7 @@ In this lesson you're going to build an application that provides a Command Line
 - News reader - List articles, read article.
 
 [now-playing](https://github.com/learn-co-curriculum/now-playing-cli-gem) is an example of a gem that would meet these requirements.
-[worlds best restaurants](https://github.com/dannyd4315/worlds-best-restaurants-cli-gem) was built by a Learn student and meets these requirements and is well coded.
+[worlds best restaurants](https://github.com/cjbrock/worlds-best-restaurants-cli-gem) was built by a Learn student, maintained by Flatiron School staff, meets these requirements, and is well coded.
 Take the time to clone, run and look through the code for both of these in detail - it'll really help.
 
 ## Instructions
