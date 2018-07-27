@@ -15,24 +15,25 @@ Congrats! It’s time to work on your first project. In this lesson you're going
     * Libraries near you -  Enter your zip code and receive a list of libraries and their details.
     * Programming meetups near you - Choose from an events list and receive details.
     * News reader - List articles and read an article of your choosing.
-4. The CLI application can not be too similiar to other OO Ruby final projects. Also, please refrain from using [Kickstarter](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/scraping/kickstarter-scraping-lab) as that was used for the scraping 'code along'. 
-5. Use good OO design patterns. You should be creating a collection of objects - not hashes - to store your data.
+4. Your CLI application should not be too similiar to the Ruby final projects (Music Library CLI, Tic-Tac-Toe with AI, Student Scraper). Also, please refrain from using [Kickstarter](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/scraping/kickstarter-scraping-lab) as that was used for the scraping 'code along'. 
+5. Use good OO design patterns. You should be creating a collection of objects, not hashes, to store your data. *Pro Tip: Avoid scraping data more than once per web page - utilize objects you have already created. It will speed up your program!*
 
 [World's Best Restaurants](https://github.com/cjbrock/worlds-best-restaurants-cli-gem) was built by a Learn student, is maintained by Flatiron School staff, meets these requirements, and is well coded. Take the time to clone, run, and look through the code in detail - it'll really help.
 
-*If you have time for an extra challenge to building your CLI gem application, [create a gem](https://guides.rubygems.org/make-your-own-gem/). Want more? Try [publishing your gem to RubyGems.org](https://guides.rubygems.org/publishing/).*
+*If you have time for an extra challenge, [create a gem](https://guides.rubygems.org/make-your-own-gem/) from your application. Want more? Try [publishing your gem to RubyGems.org](https://guides.rubygems.org/publishing/).*
 
 
 ## Instructions
 
-1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin.
+1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin. Review the [Student Scraper Project](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/final-projects/student-scraper), which provides a good example of how scraping concerns can be separated into a distinct class.
 
 2. Build your application. This is going to be different from labs you have done on Learn. Do *not* click `Open IDE` and create your application within the lesson files. Instead:
     * [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby). 
     * Starting from the command line, use [Bundler](https://bundler.io/v1.12/guides/creating_gem.html) to create your basic gem file structure.
-    * [Make a new `git` repository](https://learn.co/tracks/full-stack-web-development-v5/git-and-github/git/git-repository-basics) out of your project's top level directory. *Do not close the Sandbox without completing the next step or your work will be lost.*
+    * Initialize your project's top-level directory using [`git init](https://learn.co/tracks/full-stack-web-development-v5/git-and-github/git/git-repository-basics) and commit your changes. *Do not close the Sandbox without completing the next step or your work will be lost.*
     * [Make a new Github repository](https://github.com/new) and follow the directions provided. Since you will import an existing repository from the command line, do not initialize with a README.
-    * After your repo is pushed up to Github, make sure to create [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
+    * After your repo is pushed up to Github, make sure you have [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
+    * To continue working on your project, you'll need to clone your project down to the Sandbox each time. [This article](http://help.learn.co/workflow-tips/learn-gem/how-to-manually-open-a-lab) includes instructions on how to clone down a repo.
     * Make sure to commit early and commit often. [Commit messages should be meaningful](https://chris.beams.io/posts/git-commit/) (clearly describe what you're doing in the commit) and accurate (there should be nothing in the commit that doesn't match the description in the commit message). Most of your commits should have under 15 lines of code and a 2 line commit is perfectly acceptable. Good rule of thumb is to commit every 3-7 mins of actual coding time.
 
 3. Documentation Requirements
@@ -40,7 +41,7 @@ Congrats! It’s time to work on your first project. In this lesson you're going
 
 4. Submission Requirements
     * [Use this checklist](https://docs.google.com/forms/d/1ItDHkNbtHJP8T2G28Nqc3Ad8MppbPDpqv9AijAOCFDA/) as you complete your project and submit when you are done.
-    * Prepare a video demo (narration helps!) describing how a user would interact with your working gem. Some common video recording tools used are [Zoom](https://zoom.us/) and [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en).
+    * Prepare a video demo (narration helps!) describing how a user would interact with your working gem. Some common video recording tools used are [Zoom](https://zoom.us/), [Quicktime](https://www.apple.com/quicktime/download/), and [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en). After you create your demo, publish it on a service like [YouTube](https://www.youtube.com/) or [Google Drive](https://www.google.com/drive/).
     * Write a blog post about the project and process.
     * On Learn, submit links to the GitHub repository for your app, your video demo (not your 30-minute coding session), and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
 
@@ -56,10 +57,10 @@ Project reviews are focused on preparing you for [technical interviews](https://
 
 During your project review, be prepared to:
 
-1. Explain your code from execution point to exit point. You will also be asked questions that test your knowledge of Ruby fundamentals. Use the best technical vocabulary you can. We’ll help you with the words you can’t remember or those you find difficult to pronounce. 10-20 minutes 
+1. Explain your code from execution point to exit point. You will also be asked questions that test your knowledge of Ruby fundamentals. Use the best technical vocabulary you can. We’ll help you with the words you can’t remember or those you find difficult to pronounce. 20-25 minutes 
 2. Refactor code. 10-20 minutes
 
-After the project review, if any requirements are missing or if significant gaps in understanding are found, be prepared to do one or all of the following:
+If any requirements are missing or if significant gaps in understanding are found, be prepared to do one or all of the following:
 
 - Extend the application with a new feature, more data, a different domain etc. 
 - Submit an improved version
