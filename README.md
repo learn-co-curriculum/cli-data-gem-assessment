@@ -28,21 +28,21 @@ Congrats! It’s time to work on your first project. In this lesson you're going
 1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin.
 
 2. Build your application. This is going to be different from labs you have done on Learn. Do *not* click `Open IDE` and create your application within the lesson files. Instead:
-* [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby). 
-* Starting from the command line, use [Bundler](https://bundler.io/v1.12/guides/creating_gem.html) to create your basic gem file structure.
-* [Make a new `git` repository](https://learn.co/tracks/full-stack-web-development-v5/git-and-github/git/git-repository-basics) out of your project's top level directory. *Do not close the Sandbox without completing the next step or your work will be lost*
-* [Make a new Github repository](https://github.com/new) and follow the directions provided. Since you will import an existing repository from the command line, do not initialize with a README.
-* After your repo is pushed up to Github, make sure to create [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
-* Make sure to commit early and commit often. [Commit messages should be meaningful](https://chris.beams.io/posts/git-commit/) (clearly describe what you're doing in the commit) and accurate (there should be nothing in the commit that doesn't match the description in the commit message). Most of your commits should have under 15 lines of code and a 2 line commit is perfectly acceptable. Good rule of thumb is to commit every 3-7 mins of actual coding time.
+    * [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby). 
+    * Starting from the command line, use [Bundler](https://bundler.io/v1.12/guides/creating_gem.html) to create your basic gem file structure.
+    * [Make a new `git` repository](https://learn.co/tracks/full-stack-web-development-v5/git-and-github/git/git-repository-basics) out of your project's top level directory. *Do not close the Sandbox without completing the next step or your work will be lost.*
+    * [Make a new Github repository](https://github.com/new) and follow the directions provided. Since you will import an existing repository from the command line, do not initialize with a README.
+    * After your repo is pushed up to Github, make sure to create [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
+    * Make sure to commit early and commit often. [Commit messages should be meaningful](https://chris.beams.io/posts/git-commit/) (clearly describe what you're doing in the commit) and accurate (there should be nothing in the commit that doesn't match the description in the commit message). Most of your commits should have under 15 lines of code and a 2 line commit is perfectly acceptable. Good rule of thumb is to commit every 3-7 mins of actual coding time.
 
 3. Documentation Requirements
-* While you're working on it, record a 30-minute coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
+    * While you're working on it, record a 30-minute coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
 
 4. Submission Requirements
-* [Use this checklist](https://docs.google.com/forms/d/1ItDHkNbtHJP8T2G28Nqc3Ad8MppbPDpqv9AijAOCFDA/) as you complete your project and submit when you are done.
-* Prepare a video demo (narration helps!) describing how a user would interact with your working gem. Some common video recording tools used are [Zoom](https://zoom.us/) and [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en).
-* Write a blog post about the project and process.
-* On Learn, submit links to the GitHub repository for your app, your video demo (not your 30-minute coding session), and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
+    * [Use this checklist](https://docs.google.com/forms/d/1ItDHkNbtHJP8T2G28Nqc3Ad8MppbPDpqv9AijAOCFDA/) as you complete your project and submit when you are done.
+    * Prepare a video demo (narration helps!) describing how a user would interact with your working gem. Some common video recording tools used are [Zoom](https://zoom.us/) and [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en).
+    * Write a blog post about the project and process.
+    * On Learn, submit links to the GitHub repository for your app, your video demo (not your 30-minute coding session), and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
 
 ## If you're a Learn-Verified Premium student: 
 
