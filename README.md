@@ -11,10 +11,10 @@ Congrats! It’s time to work on your first project. In this lesson you're going
 1. Provide a [CLI](https://github.com/learn-co-curriculum/cli-interfaces-readme#program-loop) 
 2. Your [CLI application](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby) must provide access to data from a web page.
 3. The data provided must go at least one level deep. A "level" is where a user can make a choice and then get detailed information about their choice. Some examples are below:
-* Movies opening soon - Enter your zip code and receive a list of movies and their details.
-* Libraries near you -  Enter your zip code and receive a list of libraries and their details.
-* Programming meetups near you - Choose from an events list and receive details.
-* News reader - List articles and read an article of your choosing.
+    * Movies opening soon - Enter your zip code and receive a list of movies and their details.
+    * Libraries near you -  Enter your zip code and receive a list of libraries and their details.
+    * Programming meetups near you - Choose from an events list and receive details.
+    * News reader - List articles and read an article of your choosing.
 4. The CLI application can not be too similiar to other OO Ruby final projects. Also, please refrain from using [Kickstarter](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/scraping/kickstarter-scraping-lab) as that was used for the scraping 'code along'. 
 5. Use good OO design patterns. You should be creating a collection of objects - not hashes - to store your data.
 
