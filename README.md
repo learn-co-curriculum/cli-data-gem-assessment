@@ -2,12 +2,12 @@
 
 ## Overview
 
-[What to Expect from the Project Review](#expectations)
-[Project Requirements](#requirements)
-[Instructions](#instructions)
-[Support](#support)
-[Practicing for Success on Learn](#success)
-[Resources](#resources)
+- [What to Expect from the Project Review](#expectations)
+- [Project Requirements](#requirements)
+- [Instructions](#instructions)
+- [Support](#support)
+- [Practicing for Success on Learn](#success)
+- [Resources](#resources)
 
 Congrats! It’s time to work on your first project. In this lesson you're going to build a [Ruby gem](https://guides.rubygems.org/what-is-a-gem/) that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. You'll use all you've learned about Ruby and [CLI Applications in Ruby](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby) to complete this project.
 
