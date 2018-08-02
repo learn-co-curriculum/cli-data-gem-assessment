@@ -2,11 +2,39 @@
 
 ## Overview
 
+[What to Expect from the Project Review](### What to expect from the Project Review)
+[Project Requirements](## Project Requirements)
+[Instructions](## Instructions)
+[Support](## If you're a Learn-Verified Premium student:)
+[Practicing for Success on Learn](### Practicing for Success on Learn)
+[Resources](## Resources)
+
 Congrats! It’s time to work on your first project. In this lesson you're going to build a [Ruby gem](https://guides.rubygems.org/what-is-a-gem/) that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. You'll use all you've learned about Ruby and [CLI Applications in Ruby](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby) to complete this project.
 
-**Please note that while you will be writing code to [scrape data](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/scraping/scraping) or utilize an API from a public website, we are really looking for you to demonstrate your ability  to write concise, [easy-to-read](https://robots.thoughtbot.com/what-is-good-code) Object-Oriented Ruby code (e.g. objects, not hashes; separation of concerns). The details of the regex's or the selectors you use to parse your scraped web pages are less important.**
+**Please note that while you will be writing code to [scrape data](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/scraping/scraping) or utilize an API from a public website, we are really looking for you to demonstrate your ability  to write concise, easy-to-read Object-Oriented Ruby code (e.g. objects, not hashes; separation of concerns). The details of the regex's or the selectors you use to parse your scraped web pages are less important.**
 
-## Requirements
+## What to expect from the Project Review
+
+Project reviews are focused on preparing you for [technical interviews](https://www.brightnetwork.co.uk/career-path-guides/technology-it-software-development/five-ways-stand-out-your-technology/what-expect-technical-interview/). Treat project reviews as if they were technical interviews, in both attitude and technical presentation.
+
+During your project review, be prepared to:
+
+1. Explain your code from execution point to exit point. You will also be asked questions that test your knowledge of Ruby fundamentals. Use the best technical vocabulary you can. We’ll help you with the words you can’t remember or those you find difficult to pronounce. 20-25 minutes 
+2. Refactor code. 10-20 minutes
+
+If any requirements are missing or if significant gaps in understanding are found, be prepared to do one or all of the following:
+
+- Extend the application with a new feature, more data, a different domain etc. 
+- Submit an improved version
+- Meet again for another Project Review
+
+What won't happen:
+
+- You won't be yelled at, belittled, or scolded
+- You won't be put on the spot without support
+- There's nothing you can do to instantly fail or blow it
+
+## Project Requirements
 
 1. Provide a [CLI](https://github.com/learn-co-curriculum/cli-interfaces-readme#program-loop) 
 2. Your [CLI application](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby) must provide access to data from a web page.
@@ -28,19 +56,19 @@ Congrats! It’s time to work on your first project. In this lesson you're going
 1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin. Review the [Student Scraper Project](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/final-projects/student-scraper), which provides a good example of how scraping concerns can be separated into a distinct class.
 
 2. Build your application. This is going to be different from labs you have done on Learn. Do *not* click `Open IDE` and create your application within the lesson files. Instead:
-    * [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby). 
-    * Starting from the command line, use [Bundler](https://bundler.io/v1.12/guides/creating_gem.html) to create your basic gem file structure.
-    * Initialize your project's top-level directory using [`git init](https://learn.co/tracks/full-stack-web-development-v5/git-and-github/git/git-repository-basics) and commit your changes. *Do not close the Sandbox without completing the next step or your work will be lost.*
-    * [Make a new Github repository](https://github.com/new) and follow the directions provided. Since you will import an existing repository from the command line, do not initialize with a README.
+    * [Watch this video on how to create and continue your project in the IDE In Browser](https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E)
+    * [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
+    *Do not close the Sandbox without completing the next step or your work will be lost.*
     * After your repo is pushed up to Github, make sure you have [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
-    * To continue working on your project, you'll need to clone your project down to the Sandbox each time. [This article](http://help.learn.co/workflow-tips/learn-gem/how-to-manually-open-a-lab) includes instructions on how to clone down a repo.
+    * To continue working on your project, you'll need to delete extra project files in the Sandbox and clone your project down each time. [This article](http://help.learn.co/workflow-tips/learn-gem/how-to-manually-open-a-lab) includes instructions on how to clone down a repo.
     * Make sure to commit early and commit often. [Commit messages should be meaningful](https://chris.beams.io/posts/git-commit/) (clearly describe what you're doing in the commit) and accurate (there should be nothing in the commit that doesn't match the description in the commit message). Most of your commits should have under 15 lines of code and a 2 line commit is perfectly acceptable. Good rule of thumb is to commit every 3-7 mins of actual coding time.
+    * [Use this checklist](https://docs.google.com/forms/d/1ItDHkNbtHJP8T2G28Nqc3Ad8MppbPDpqv9AijAOCFDA/) as you complete your project and submit when you are done.
 
-3. Documentation Requirements
+3. Documentation 
     * While you're working on it, record a 30-minute coding session with your favorite screen capture tool. During the session, either think out loud or not. It's up to you. You don't need to submit the video, but we may ask for it at a later time.
 
-4. Submission Requirements
-    * [Use this checklist](https://docs.google.com/forms/d/1ItDHkNbtHJP8T2G28Nqc3Ad8MppbPDpqv9AijAOCFDA/) as you complete your project and submit when you are done.
+4. Submission 
+    * [Submit this checklist](https://docs.google.com/forms/d/1ItDHkNbtHJP8T2G28Nqc3Ad8MppbPDpqv9AijAOCFDA/) after confirming all requirements are met.
     * Prepare a video demo (narration helps!) describing how a user would interact with your working gem. Some common video recording tools used are [Zoom](https://zoom.us/), [Quicktime](https://www.apple.com/quicktime/download/), and [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en). After you create your demo, publish it on a service like [YouTube](https://www.youtube.com/) or [Google Drive](https://www.google.com/drive/).
     * Write a blog post about the project and process.
     * On Learn, submit links to the GitHub repository for your app, your video demo (not your 30-minute coding session), and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
@@ -51,29 +79,7 @@ Congrats! It’s time to work on your first project. In this lesson you're going
 * For project support, you can reach out to [your Section Lead](http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads) responsible for this section and/or schedule up to four 30-minute [Project Support sessions](https://theflatironschool.typeform.com/to/B9BrgH).
 * After project submission, watch for an email from Learn with instructions to schedule an assessment. If you don't receive the email within a day or so, reach out to [your Section Lead](http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads).
 
-### What to expect from the Project Review
-
-Project reviews are focused on preparing you for [technical interviews](https://www.brightnetwork.co.uk/career-path-guides/technology-it-software-development/five-ways-stand-out-your-technology/what-expect-technical-interview/). Treat project reviews as if they were technical interviews, in both attitude and technical presentation.
-
-During your project review, be prepared to:
-
-1. Explain your code from execution point to exit point. You will also be asked questions that test your knowledge of Ruby fundamentals. Use the best technical vocabulary you can. We’ll help you with the words you can’t remember or those you find difficult to pronounce. 20-25 minutes 
-2. Refactor code. 10-20 minutes
-
-If any requirements are missing or if significant gaps in understanding are found, be prepared to do one or all of the following:
-
-- Extend the application with a new feature, more data, a different domain etc. 
-- Submit an improved version
-- Meet again for another Project Review
-
-What won't happen:
-
-- You won't be yelled at, belittled, or scolded
-- You won't be put on the spot without support
-- There's nothing you can do to instantly fail or blow it
-
-
-### Practicing for Success on Learn
+## Practicing for Success on Learn
 
 #### Be scrappy.
 - If you make a mistake, correct yourself! We all make mistakes, I promise.
@@ -102,6 +108,8 @@ What won't happen:
 
 ## Resources
 
+- [Bundler](https://bundler.io/v1.12/guides/creating_gem.html)
+- [Git Repository Basics](https://learn.co/tracks/full-stack-web-development-v5/git-and-github/git/git-repository-basics)
 - [Environments, Requiring Files, Bundler, and Gems](https://www.youtube.com/watch?v=XBgZLm-sdl8) 
 - [Video- CLI Data Gem Walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 - [Video- CLI Data Gem Walkthrough: Creating a CLI Scraper Gem](https://www.youtube.com/watch?v=Y5X6NRQi0bU)
