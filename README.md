@@ -2,18 +2,18 @@
 
 ## Overview
 
-[What to Expect from the Project Review](### What to expect from the Project Review)
-[Project Requirements](## Project Requirements)
-[Instructions](## Instructions)
-[Support](## If you're a Learn-Verified Premium student:)
-[Practicing for Success on Learn](### Practicing for Success on Learn)
-[Resources](## Resources)
+[What to Expect from the Project Review](#expectations)
+[Project Requirements](#requirements)
+[Instructions](#instructions)
+[Support](#support)
+[Practicing for Success on Learn](#success)
+[Resources](#resources)
 
 Congrats! It’s time to work on your first project. In this lesson you're going to build a [Ruby gem](https://guides.rubygems.org/what-is-a-gem/) that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. You'll use all you've learned about Ruby and [CLI Applications in Ruby](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby) to complete this project.
 
 **Please note that while you will be writing code to [scrape data](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/scraping/scraping) or utilize an API from a public website, we are really looking for you to demonstrate your ability  to write concise, easy-to-read Object-Oriented Ruby code (e.g. objects, not hashes; separation of concerns). The details of the regex's or the selectors you use to parse your scraped web pages are less important.**
 
-## What to expect from the Project Review
+## <a id="expectations">What to expect from the Project Review</a>
 
 Project reviews are focused on preparing you for [technical interviews](https://www.brightnetwork.co.uk/career-path-guides/technology-it-software-development/five-ways-stand-out-your-technology/what-expect-technical-interview/). Treat project reviews as if they were technical interviews, in both attitude and technical presentation.
 
@@ -34,7 +34,7 @@ What won't happen:
 - You won't be put on the spot without support
 - There's nothing you can do to instantly fail or blow it
 
-## Project Requirements
+## <a id="requirements">Project Requirements</a>
 
 1. Provide a [CLI](https://github.com/learn-co-curriculum/cli-interfaces-readme#program-loop) 
 2. Your [CLI application](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby) must provide access to data from a web page.
@@ -51,7 +51,7 @@ What won't happen:
 *If you have time for an extra challenge, [create a gem](https://guides.rubygems.org/make-your-own-gem/) from your application. Want more? Try [publishing your gem to RubyGems.org](https://guides.rubygems.org/publishing/).*
 
 
-## Instructions
+## <a id="instructions">Instructions</a>
 
 1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin. Review the [Student Scraper Project](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/final-projects/student-scraper), which provides a good example of how scraping concerns can be separated into a distinct class.
 
@@ -73,13 +73,13 @@ What won't happen:
     * Write a blog post about the project and process.
     * On Learn, submit links to the GitHub repository for your app, your video demo (not your 30-minute coding session), and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
 
-## If you're a Learn-Verified Premium student: 
+## <a id="support">If you're a Learn-Verified Premium student:</a> 
 
 * Unlike the rest of the curriculum, if you have any questions about your assessment or need help with it, please don’t use the Ask A Question feature. 
 * For project support, you can reach out to [your Section Lead](http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads) responsible for this section and/or schedule up to four 30-minute [Project Support sessions](https://theflatironschool.typeform.com/to/B9BrgH).
 * After project submission, watch for an email from Learn with instructions to schedule an assessment. If you don't receive the email within a day or so, reach out to [your Section Lead](http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads).
 
-## Practicing for Success on Learn
+## <a id="success">Practicing for Success on Learn</a>
 
 #### Be scrappy.
 - If you make a mistake, correct yourself! We all make mistakes, I promise.
@@ -106,7 +106,7 @@ What won't happen:
 - Ask questions! Curiosity and willingness to learn are hugely valued in our industry. If you haven’t heard of something, that’s okay - use this opportunity to learn about it!
 
 
-## Resources
+## <a id="resources">Resources</a>
 
 - [Bundler](https://bundler.io/v1.12/guides/creating_gem.html)
 - [Git Repository Basics](https://learn.co/tracks/full-stack-web-development-v5/git-and-github/git/git-repository-basics)
