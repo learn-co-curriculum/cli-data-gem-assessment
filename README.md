@@ -57,8 +57,7 @@ What won't happen:
 
 2. Build your application. This is going to be different from labs you have done on Learn. Do *not* click `Open IDE` and create your application within the lesson files. Instead:
         - [Watch this video on how to create and continue your project in the IDE In Browser](https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E)
-        - [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
-        *Do not close the Sandbox without completing the next step or your work will be lost.*
+        - [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby). *Do not close the Sandbox without completing the next step or your work will be lost.*
         - After your repo is pushed up to Github, make sure you have [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
         - To continue working on your project, you'll need to delete extra project files in the Sandbox and clone your project down each time. [This article](http://help.learn.co/workflow-tips/learn-gem/how-to-manually-open-a-lab) includes instructions on how to clone down a repo.
         - Make sure to commit early and commit often. [Commit messages should be meaningful](https://chris.beams.io/posts/git-commit/) (clearly describe what you're doing in the commit) and accurate (there should be nothing in the commit that doesn't match the description in the commit message). Most of your commits should have under 15 lines of code and a 2 line commit is perfectly acceptable. Good rule of thumb is to commit every 3-7 mins of actual coding time.
