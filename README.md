@@ -73,9 +73,8 @@ What won't happen:
     - Write a blog post about the project and process.
     - On Learn, submit links to the GitHub repository for your app, your video demo (not your 30-minute coding session), and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
 
-## <a id="support">If you're a Learn-Verified Premium student:</a> 
+## <a id="support">Helpful Hints:</a> 
 
-* Unlike the rest of the curriculum, if you have any questions about your assessment or need help with it, please don’t use the Ask A Question feature. 
 * For project support, you can reach out to [your Section Lead](http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads) responsible for this section and/or schedule up to four 30-minute [Project Support sessions](https://theflatironschool.typeform.com/to/B9BrgH).
 * After project submission, watch for an email from Learn with instructions to schedule an assessment. If you don't receive the email within a day or so, reach out to [your Section Lead](http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads).
 
