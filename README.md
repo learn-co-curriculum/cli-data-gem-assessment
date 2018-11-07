@@ -5,7 +5,6 @@
 - [What to Expect from the Project Review](#expectations)
 - [Project Requirements](#requirements)
 - [Instructions](#instructions)
-- [Support](#support)
 - [Practicing for Success on Learn](#success)
 - [Resources](#resources)
 
@@ -72,11 +71,6 @@ What won't happen:
     - Prepare a video demo (narration helps!) describing how a user would interact with your working gem. Some common video recording tools used are [Zoom](https://zoom.us/), [Quicktime](https://www.apple.com/quicktime/download/), and [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en). After you create your demo, publish it on a service like [YouTube](https://www.youtube.com/) or [Google Drive](https://www.google.com/drive/).
     - Write a blog post about the project and process.
     - On Learn, submit links to the GitHub repository for your app, your video demo (not your 30-minute coding session), and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
-
-## <a id="support">Helpful Hints:</a> 
-
-* For project support, you can reach out to [your Section Lead](http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads) responsible for this section and/or schedule up to four 30-minute [Project Support sessions](https://theflatironschool.typeform.com/to/B9BrgH).
-* After project submission, watch for an email from Learn with instructions to schedule an assessment. If you don't receive the email within a day or so, reach out to [your Section Lead](http://help.learn.co/instructional-support/receiving-course-support/who-are-the-section-leads).
 
 ## <a id="success">Practicing for Success on Learn</a>
 
