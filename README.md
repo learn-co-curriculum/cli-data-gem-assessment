@@ -8,9 +8,9 @@
 - [Practicing for Success on Learn](#success)
 - [Resources](#resources)
 
-Congrats! It’s time to work on your first project. In this lesson you're going to build a [Ruby gem](https://guides.rubygems.org/what-is-a-gem/) that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. You'll use all you've learned about Ruby and [CLI Applications in Ruby](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby) to complete this project.
+Congrats! It’s time to work on your first project. In this lesson you're going to build a [Ruby gem](https://guides.rubygems.org/what-is-a-gem/) that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. You'll use all you've learned about Ruby and [CLI Applications in Ruby](https://github.com/learn-co-curriculum/ruby-cli-applications-readme) to complete this project.
 
-**Please note that while you will be writing code to [scrape data](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/scraping/scraping) or utilize an API from a public website, we are really looking for you to demonstrate your ability  to write concise, easy-to-read Object-Oriented Ruby code (e.g. objects, not hashes; separation of concerns). The details of the regex's or the selectors you use to parse your scraped web pages are less important.**
+**Please note that while you will be writing code to [scrape data](https://github.com/learn-co-curriculum/scraping-reading) or utilize an API from a public website, we are really looking for you to demonstrate your ability  to write concise, easy-to-read Object-Oriented Ruby code (e.g. objects, not hashes; separation of concerns). The details of the regex's or the selectors you use to parse your scraped web pages are less important.**
 
 ## <a id="expectations">What to expect from the Project Review</a>
 
@@ -36,13 +36,13 @@ What won't happen:
 ## <a id="requirements">Project Requirements</a>
 
 1. Provide a [CLI](https://github.com/learn-co-curriculum/cli-interfaces-readme#program-loop) 
-2. Your [CLI application](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby) must provide access to data from a web page.
+2. Your [CLI application](https://github.com/learn-co-curriculum/ruby-cli-applications-readme) must provide access to data from a web page.
 3. The data provided must go at least one level deep. A "level" is where a user can make a choice and then get detailed information about their choice. Some examples are below:
     - Movies opening soon - Enter your zip code and receive a list of movies and their details.
     - Libraries near you -  Enter your zip code and receive a list of libraries and their details.
     - Programming meetups near you - Choose from an events list and receive details.
     - News reader - List articles and read an article of your choosing.
-4. Your CLI application should not be too similiar to the Ruby final projects (Music Library CLI, Tic-Tac-Toe with AI, Student Scraper). Also, please refrain from using [Kickstarter](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/scraping/kickstarter-scraping-lab) as that was used for the scraping 'code along'. 
+4. Your CLI application should not be too similiar to the Ruby final projects (Music Library CLI, Tic-Tac-Toe with AI, Student Scraper). Also, please refrain from using [Kickstarter](https://github.com/learn-co-curriculum/scraping-kickstarter) as that was used for the scraping 'code along'. 
 5. Use good OO design patterns. You should be creating a collection of objects, not hashes, to store your data. *Pro Tip: Avoid scraping data more than once per web page - utilize objects you have already created. It will speed up your program!*
 
 [World's Best Restaurants](https://github.com/cjbrock/worlds-best-restaurants-cli-gem) was built by a Learn student, is maintained by Flatiron School staff, meets these requirements, and is well coded. Take the time to clone, run, and look through the code in detail - it'll really help.
@@ -52,13 +52,13 @@ What won't happen:
 
 ## <a id="instructions">Instructions</a>
 
-1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin. Review the [Student Scraper Project](https://learn.co/tracks/full-stack-web-development-v5/object-oriented-ruby/final-projects/student-scraper), which provides a good example of how scraping concerns can be separated into a distinct class.
+1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin. Review the [Student Scraper Project](https://github.com/learn-co-curriculum/oo-student-scraper), which provides a good example of how scraping concerns can be separated into a distinct class.
 
 2. Build your application. This is going to be different from labs you have done on Learn. Do *not* click `Open IDE` and create your application within the lesson files. Instead:
     - [Watch this video on how to create and continue your project in the IDE In Browser](https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E)
     - **Online Software Engineering**: [Use this IDE Sandbox](https://learn.co/tracks/online-software-engineering-structured/procedural-ruby/command-line-applications/cli-applications-in-ruby).
-    - **Full Stack Web Development V5**: [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v5/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
-    - **Full Stack Web Development V7** [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v7/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
+    - **Full Stack Web Development V7**: [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v7/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
+    - **Full Stack Web Development V8** [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v8/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
 
     *Do not close the Sandbox without completing the next step or your work will be lost.*
     - After your repo is pushed up to Github, make sure you have [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
@@ -105,7 +105,7 @@ What won't happen:
 ## <a id="resources">Resources</a>
 
 - [Bundler](https://bundler.io/v1.12/guides/creating_gem.html)
-- [Git Repository Basics](https://learn.co/tracks/full-stack-web-development-v5/git-and-github/git/git-repository-basics)
+- [Git Repository Basics](https://github.com/learn-co-curriculum/git-basics-readme)
 - [Environments, Requiring Files, Bundler, and Gems](https://www.youtube.com/watch?v=XBgZLm-sdl8) 
 - [Video- CLI Data Gem Walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI)
 - [Video- CLI Data Gem Walkthrough: Creating a CLI Scraper Gem](https://www.youtube.com/watch?v=Y5X6NRQi0bU)
@@ -114,8 +114,5 @@ What won't happen:
 - [Video- Student Example 2: Refactoring CLI Data Gem](https://www.youtube.com/watch?v=Lt0oyHiKWIw)
 - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
 - [How to publish your gem](http://guides.rubygems.org/publishing/)
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Portfolio Project</a> on Learn.co and start learning to code for free.</p>
