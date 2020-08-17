@@ -55,7 +55,6 @@ What won't happen:
 1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin. Review the [Student Scraper Project](https://github.com/learn-co-curriculum/oo-student-scraper), which provides a good example of how scraping concerns can be separated into a distinct class.
 
 2. Build your application. This is going to be different from labs you have done on Learn. Do *not* click `Open IDE` and create your application within the lesson files. Instead:
-    - [Watch this video on how to create and continue your project in the IDE In Browser](https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E)
     - **Online Software Engineering**: [Use this IDE Sandbox](https://learn.co/tracks/online-software-engineering-structured/procedural-ruby/command-line-applications/cli-applications-in-ruby).
     - **Full Stack Web Development V7**: [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v7/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
     - **Full Stack Web Development V8** [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v8/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
