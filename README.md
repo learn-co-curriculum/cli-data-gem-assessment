@@ -57,7 +57,8 @@ What won't happen:
 2. Build your application. This is going to be different from labs you have done on Learn. Do *not* click `Open IDE` and create your application within the lesson files. Instead:
     - **Online Software Engineering**: [Use this IDE Sandbox](https://learn.co/tracks/online-software-engineering-structured/procedural-ruby/command-line-applications/cli-applications-in-ruby).
     - **Full Stack Web Development V7**: [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v7/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
-    - **Full Stack Web Development V8** [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v8/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
+    - **Full Stack Web Development V8** [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v8/module-3-intro-to-ruby-development/section-5-command-line-applications/cli-applications-in-ruby).
+    
 
     *Do not close the Sandbox without completing the next step or your work will be lost.*
     - After your repo is pushed up to Github, make sure you have [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
