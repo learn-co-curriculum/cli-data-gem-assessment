@@ -5,7 +5,7 @@
 - [What to Expect from the Project Review](#expectations)
 - [Project Requirements](#requirements)
 - [Instructions](#instructions)
-- [Practicing for Success on Learn](#success)
+- [Practicing for Success](#success)
 - [Resources](#resources)
 
 Congrats! It’s time to work on your first project. In this lesson you're going to build a [Ruby gem](https://guides.rubygems.org/what-is-a-gem/) that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. You'll use all you've learned about Ruby and [CLI Applications in Ruby](https://github.com/learn-co-curriculum/ruby-cli-applications-readme) to complete this project.
@@ -75,7 +75,7 @@ What won't happen:
     - Write a blog post about the project and process.
     - On Learn, submit links to the GitHub repository for your app, your video demo (not your 30-minute coding session), and your blog post each to the corresponding textbox in the right rail, and hit "I'm done" to wrap it up.  
 
-## <a id="success">Practicing for Success on Learn</a>
+## <a id="success">Practicing for Success </a>
 
 #### Be scrappy.
 - If you make a mistake, correct yourself! We all make mistakes, I promise.
