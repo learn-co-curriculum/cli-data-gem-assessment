@@ -115,4 +115,4 @@ What won't happen:
 - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
 - [How to publish your gem](http://guides.rubygems.org/publishing/)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Portfolio Project</a> on Learn.co and start learning to code for free.</p>
+
