@@ -10,7 +10,7 @@
 
 Congrats! It’s time to work on your first project. In this lesson you're going to build a [Ruby gem](https://guides.rubygems.org/what-is-a-gem/) that provides a Command Line Interface (CLI) to an external data source. The CLI will be composed of an Object Oriented Ruby application. You'll use all you've learned about Ruby and [CLI Applications in Ruby](https://github.com/learn-co-curriculum/ruby-cli-applications-readme) to complete this project.
 
-**Please note that while you will be writing code to [scrape data](https://github.com/learn-co-curriculum/scraping-reading) or utilize an API from a public website, we are really looking for you to demonstrate your ability  to write concise, easy-to-read Object-Oriented Ruby code (e.g. objects, not hashes; separation of concerns). The details of the regex's or the selectors you use to parse your scraped web pages are less important.**
+**Please note that while you will be writing code to [scrape data](https://github.com/learn-co-curriculum/scraping-reading) or utilize an API from a public website, we are really looking for you to demonstrate your ability  to write concise, easy-to-read Object-Oriented Ruby code (e.g. objects, not hashes; separation of concerns). The details of the regex or the selectors you use to parse your scraped web pages are less important.**
 
 ## <a id="expectations">What to expect from the Project Review</a>
 
@@ -42,7 +42,7 @@ What won't happen:
     - Libraries near you -  Enter your zip code and receive a list of libraries and their details.
     - Programming meetups near you - Choose from an events list and receive details.
     - News reader - List articles and read an article of your choosing.
-4. Your CLI application should not be too similiar to the Ruby final projects (Music Library CLI, Tic-Tac-Toe with AI, Student Scraper). Also, please refrain from using [Kickstarter](https://github.com/learn-co-curriculum/scraping-kickstarter) as that was used for the scraping 'code along'.
+4. Your CLI application should not be too similar to the Ruby final projects (Music Library CLI, Tic-Tac-Toe with AI, Student Scraper). Also, please refrain from using [Kickstarter](https://github.com/learn-co-curriculum/scraping-kickstarter) as that was used for the scraping 'code along'.
 5. Use good OO design patterns. You should be creating a collection of objects, not hashes, to store your data. *Pro Tip: Avoid scraping data more than once per web page - utilize objects you have already created. It will speed up your program!*
 
 [World's Best Restaurants](https://github.com/cjbrock/worlds-best-restaurants-cli-gem) was built by a Learn student, is maintained by Flatiron School staff, meets these requirements, and is well coded. Take the time to clone, run, and look through the code in detail - it'll really help.
@@ -54,13 +54,11 @@ What won't happen:
 1. Watch this [video walkthrough](https://www.youtube.com/watch?v=_lDExWIhYKI) of building a basic CLI Gem called [Daily Deal](https://github.com/learn-co-curriculum/daily_deal) before you begin. Review the [Student Scraper Project](https://github.com/learn-co-curriculum/oo-student-scraper), which provides a good example of how scraping concerns can be separated into a distinct class.
 
 2. Build your application. This is going to be different from labs you have done on Learn. Do *not* click `Open IDE` and create your application within the lesson files. Instead:
-
     - **Online Software Engineering**: [Use this IDE Sandbox](https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/section-17-final-projects/bonus-video-review-music-library-cli).
     - **Full Stack Web Development V7**: [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v7/intro-to-ruby-development/command-line-applications/cli-applications-in-ruby).
     - **Full Stack Web Development V8** [Use this IDE Sandbox](https://learn.co/tracks/full-stack-web-development-v8/module-3-intro-to-ruby-development/section-5-command-line-applications/cli-applications-in-ruby).
 
     *Do not close the Sandbox without completing the next step or your work will be lost.*
-
     - After your repo is pushed up to Github, make sure you have [a good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) with a short description, install instructions, a contributors guide and a link to the license for your code (students usually use the [MIT license](https://opensource.org/licenses/MIT)).
     - To continue working on your project, you'll need to delete extra project files in the Sandbox and clone your project down each time. [This article](http://help.learn.co/workflow-tips/learn-gem/how-to-manually-open-a-lab) includes instructions on how to clone down a repo.
     - Make sure to commit early and commit often. [Commit messages should be meaningful](https://chris.beams.io/posts/git-commit/) (clearly describe what you're doing in the commit) and accurate (there should be nothing in the commit that doesn't match the description in the commit message). Most of your commits should have under 15 lines of code and a 2 line commit is perfectly acceptable. Good rule of thumb is to commit every 3-7 mins of actual coding time.
