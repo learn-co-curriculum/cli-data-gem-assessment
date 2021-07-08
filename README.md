@@ -45,7 +45,7 @@ What won't happen:
 4. Your CLI application should not be too similar to the Ruby final projects (Music Library CLI, Tic-Tac-Toe with AI, Student Scraper). Also, please refrain from using [Kickstarter](https://github.com/learn-co-curriculum/scraping-kickstarter) as that was used for the scraping 'code along'.
 5. Use good OO design patterns. You should be creating a collection of objects, not hashes, to store your data. *Pro Tip: Avoid scraping data more than once per web page - utilize objects you have already created. It will speed up your program!*
 
-[World's Best Restaurants](https://github.com/cjbrock/worlds-best-restaurants-cli-gem) was built by a Learn student, is maintained by Flatiron School staff, meets these requirements, and is well coded. Take the time to clone, run, and look through the code in detail - it'll really help.
+[World's Best Restaurants](https://github.com/cjbrock/worlds-best-restaurants-cli-gem) was built by a Flatiron student, is maintained by Flatiron School staff, meets these requirements, and is well coded. Take the time to clone, run, and look through the code in detail - it'll really help.
 
 *If you have time for an extra challenge, [create a gem](https://guides.rubygems.org/make-your-own-gem/) from your application. Want more? Try [publishing your gem to RubyGems.org](https://guides.rubygems.org/publishing/).*
 
