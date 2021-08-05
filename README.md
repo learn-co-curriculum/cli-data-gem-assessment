@@ -191,6 +191,5 @@ application. Want more? Try
 
 - [Bundler](https://bundler.io/v1.12/guides/creating_gem.html)
 - [Git Repository Basics](https://github.com/learn-co-curriculum/git-basics-readme)
-- [Environments, Requiring Files, Bundler, and Gems](https://www.youtube.com/watch?v=XBgZLm-sdl8)
 - [How to build a ruby gem](http://guides.rubygems.org/make-your-own-gem/)
 - [How to publish your gem](http://guides.rubygems.org/publishing/)
